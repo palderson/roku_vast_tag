@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">    <Ad id="2291331">
+
+    	<InLine>
+
+    		<AdSystem version="4.6.0-10">LiveRail</AdSystem>
+
+    		<AdTitle><![CDATA[LiveRail creative 2]]></AdTitle>
+
+    		<Description><![CDATA[]]></Description>
+
+    		<Impression id="LR"><![CDATA[http://t4.liverail.com/?metric=impression&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=121&y=121&xy=6b87]]></Impression>
+
+            <Impression id="QC"><![CDATA[http://pixel.quantserve.com/pixel/p-d05JkuPGiy-jY.gif?labels=inventory.1331,impression.2291331&r=5938]]></Impression>
+
+        	<Impression id="CS"><![CDATA[http://b.scorecardresearch.com/p?c1=1&c2=9864668&c3=1331&c4=&c5=09]]></Impression>
+
+			<Impression><![CDATA[http://load.exelator.com/load/?p=104&g=440&j=0]]></Impression>
+
+			<Impression><![CDATA[http://ad.crwdcntrl.net/5/c=851/pe=y/var=s?http://t4.liverail.com/?metric=msync&p=6&${profile}]]></Impression>
+
+			<Impression><![CDATA[http://ad.crwdcntrl.net/5/c=936/pe=y/var=s?http://t4.liverail.com/?metric=msync&p=7&${profile}]]></Impression>
+
+			<Impression><![CDATA[http://t4.liverail.com/?metric=rsync&p=1001&redirect=http%3A%2F%2Fsearch.spotxchange.com%2Fpartner%3Fadv_id%3D6498%26uid%3D240649235%26img%3DIMG]]></Impression>
+
+			<Impression><![CDATA[http://cm.g.doubleclick.net/pixel?google_nid=liverail&google_cm]]></Impression>
+
+			<Creatives>
+
+				<Creative sequence="1" id="7969">
+
+            		<Linear>
+
+            			<Duration>00:00:10</Duration>
+
+            			
+
+                        <TrackingEvents>
+
+                            <Tracking event="firstQuartile"><![CDATA[http://t4.liverail.com/?metric=view25&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="midpoint"><![CDATA[http://t4.liverail.com/?metric=view50&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="thirdQuartile"><![CDATA[http://t4.liverail.com/?metric=view75&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="complete"><![CDATA[http://t4.liverail.com/?metric=view100&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://t4.liverail.com/?metric=mute&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="unmute"><![CDATA[http://t4.liverail.com/?metric=unmute&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="pause"><![CDATA[http://t4.liverail.com/?metric=pause&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="resume"><![CDATA[http://t4.liverail.com/?metric=resume&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="fullscreen"><![CDATA[http://t4.liverail.com/?metric=fullscreen&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="close"><![CDATA[http://t4.liverail.com/?metric=close&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                            <Tracking event="acceptInvitation"><![CDATA[http://t4.liverail.com/?metric=accept&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                        </TrackingEvents>   
+
+                        
+
+                        <VideoClicks>
+
+            				<ClickThrough><![CDATA[http://t4.liverail.com/?metric=clickthru&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=&redirect=http%3A%2F%2Fwww.liverail.com]]></ClickThrough>
+
+ 		
+
+            			</VideoClicks>
+
+        	   			
+
+                        <MediaFiles>
+
+        					<MediaFile delivery="progressive" bitrate="256" width="640" height="352" type="video/x-mp4"><![CDATA[http://cdn.liverail.com/adasset/229/7969/lo.mp4]]></MediaFile>
+
+        					<MediaFile delivery="progressive" bitrate="512" width="848" height="480" type="video/x-mp4"><![CDATA[http://cdn.liverail.com/adasset/229/7969/me.mp4]]></MediaFile>
+
+        					<MediaFile delivery="progressive" bitrate="1024" width="848" height="480" type="video/x-mp4"><![CDATA[http://cdn.liverail.com/adasset/229/7969/hi.mp4]]></MediaFile>
+
+    					</MediaFiles>
+
+    				</Linear>
+
+    			</Creative>
+
+    			<Creative sequence="1" id="7969">
+
+    				<CompanionAds>
+
+        				<Companion width="300" height="60">
+
+                            <StaticResource creativeType="application/x-shockwave-flash"><![CDATA[http://cdn.liverail.com/adasset4/1331/229/7969/5122396e510b80db6b5ef4013ddabe90.swf]]></StaticResource>
+
+                                                        <TrackingEvents>
+
+                                <Tracking event="creativeView"><![CDATA[http://t4.liverail.com/?metric=companion&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                              
+
+                            </TrackingEvents>
+
+                            <CompanionClickThrough><![CDATA[http://t4.liverail.com/?metric=cclickthru&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=&redirect=http%3A%2F%2Fwww.liverail.com]]></CompanionClickThrough>
+
+                        </Companion>
+
+        				<Companion width="300" height="250">
+
+                            <StaticResource creativeType="image/jpeg"><![CDATA[http://cdn.liverail.com/adasset/229/7969/300x250.jpg]]></StaticResource>
+
+                                                        <TrackingEvents>
+
+                                <Tracking event="creativeView"><![CDATA[http://t4.liverail.com/?metric=companion&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=]]></Tracking>
+
+                              
+
+                            </TrackingEvents>
+
+                            <CompanionClickThrough><![CDATA[http://t4.liverail.com/?metric=cclickthru&pos=0&coid=135&pid=1331&nid=1331&oid=2291331&olid=2291331&cid=7969&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&url=&cb=5938.70.162.13.235&x=&y=&xy=&redirect=http%3A%2F%2Fwww.liverail.com]]></CompanionClickThrough>
+
+                        </Companion>
+
+    				</CompanionAds>
+
+    			</Creative>
+
+    		</Creatives>
+
+    	</InLine>
+
+    </Ad>
+
+</VAST><!-- 19 US_ARIZONA_PHOENIXAZ_TEMPE -->
